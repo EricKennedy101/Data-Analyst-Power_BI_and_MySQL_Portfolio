@@ -12,4 +12,4 @@ This repository showcases my work on a 3-day A/B split test campaign for Windows
 - [MySQL_Marketing_Database_Setup.pdf]
 
 ## How to Use
-- Download and view the reports and documents directly from this repository.
+- View and/or Download the reports and documents directly from this repository.
